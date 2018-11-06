@@ -1,0 +1,4 @@
+/home/localguest/Desktop/TP5/NetworkCode/build/CMakeFiles/NetSim.dir
+/home/localguest/Desktop/TP5/NetworkCode/build/CMakeFiles/doc.dir
+/home/localguest/Desktop/TP5/NetworkCode/build/CMakeFiles/graphTestNetSim.dir
+/home/localguest/Desktop/TP5/NetworkCode/build/CMakeFiles/testNetSim.dir
